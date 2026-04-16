@@ -40,10 +40,11 @@ Focused [Devart MCP servers](https://www.devart.com/mcp/) optimized for a specif
 
 ## Supported AI tools
  
-- [Claude Desktop](https://img.shields.io/badge/Claude_Desktop-supported-5B4FE8?logo=anthropic&logoColor=white)
-- [GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-supported-0078D4?logo=github&logoColor=white)
-- [JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-supported-FE2857?logo=jetbrains&logoColor=white)
-- Other MCP-compatible AI tools
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-supported-5B4FE8?logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-supported-0078D4?logo=github&logoColor=white)
+![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-supported-FE2857?logo=jetbrains&logoColor=white)
+
+And other MCP-compatible AI tools.
 
 ## Support Center
 
