@@ -19,30 +19,30 @@ Devart AI Connectivity delivers self-hosted MCP servers that connect AI tools to
  
 One MCP layer for multiple databases and cloud applications — connect AI tools to any ODBC-accessible source without managing a separate integration for every system.
  
-**[MCP Server Universal →](https://docs.devart.com/mcp-server-universal/)**
+**[MCP Server Universal →](https://www.devart.com/mcp/universal/)**
  
 ### Single-source MCP Servers
  
-Focused MCP servers optimized for a specific database or cloud application through the corresponding Devart ODBC Driver.
+Focused [Devart MCP servers](https://www.devart.com/mcp/) optimized for a specific database or cloud application through the corresponding Devart ODBC Driver.
  
 | Database sources | Cloud applications |
 | --- | --- |
-| [MCP Server for ASE](https://docs.devart.com/mcp-server-ase/) | [MCP Server for Dynamics 365](https://docs.devart.com/mcp-server-dynamics365/) |
-| [MCP Server for Firebird](https://docs.devart.com/mcp-server-firebird/) | [MCP Server for Dynamics 365 Business Central](https://docs.devart.com/mcp-server-dynamics365-business-central/) |
-| [MCP Server for Microsoft Access](https://docs.devart.com/mcp-server-access/) | [MCP Server for HubSpot](https://docs.devart.com/mcp-server-hubspot/) |
-| [MCP Server for MySQL](https://docs.devart.com/mcp-server-mysql/) | [MCP Server for NetSuite](https://docs.devart.com/mcp-server-netsuite/) |
-| [MCP Server for Oracle](https://docs.devart.com/mcp-server-oracle/) | [MCP Server for QuickBooks Online](https://docs.devart.com/mcp-server-quickbooks-online/) |
-| [MCP Server for PostgreSQL](https://docs.devart.com/mcp-server-postgresql/) | [MCP Server for Salesforce](https://docs.devart.com/mcp-server-salesforce/) |
-| [MCP Server for SQLite](https://docs.devart.com/mcp-server-sqlite/) | [MCP Server for Salesforce Marketing Cloud](https://docs.devart.com/mcp-server-salesforce-marketing-cloud/) |
-| [MCP Server for SQL Server](https://docs.devart.com/mcp-server-sqlserver/) | [MCP Server for Snowflake](https://docs.devart.com/mcp-server-snowflake/) |
-| [MCP Server for xBase](https://docs.devart.com/mcp-server-xbase/) | [MCP Server for Zoho CRM](https://docs.devart.com/mcp-server-zoho-crm/) |
-| | [MCP Server for Zoho Desk](https://docs.devart.com/mcp-server-zoho-desk/) |
+| [MCP Server for ASE](https://www.devart.com/mcp/ase/) | [MCP Server for Dynamics 365](https://www.devart.com/mcp/dynamics365/) |
+| [MCP Server for Firebird](https://www.devart.com/mcp/firebird/) | [MCP Server for Dynamics 365 Business Central](https://www.devart.com/mcp/dynamics365-business-central/) |
+| [MCP Server for Microsoft Access](https://www.devart.com/mcp/microsoft-access/) | [MCP Server for HubSpot](https://www.devart.com/mcp/hubspot/) |
+| [MCP Server for MySQL](https://www.devart.com/mcp/mysql/) | [MCP Server for NetSuite](https://www.devart.com/mcp/netsuite/) |
+| [MCP Server for Oracle](https://www.devart.com/mcp/oracle/) | [MCP Server for QuickBooks Online](https://www.devart.com/mcp/quickbooks-online/) |
+| [MCP Server for PostgreSQL](https://www.devart.com/mcp/postgresql/) | [MCP Server for Salesforce](https://www.devart.com/mcp/salesforce/) |
+| [MCP Server for SQLite](https://www.devart.com/mcp/sqlite/) | [MCP Server for Salesforce Marketing Cloud](https://www.devart.com/mcp/salesforce-marketing-cloud/) |
+| [MCP Server for SQL Server](https://www.devart.com/mcp/sqlserver/) | [MCP Server for Snowflake](https://www.devart.com/mcp/snowflake/) |
+| [MCP Server for xBase](https://www.devart.com/mcp/xbase/) | [MCP Server for Zoho CRM](https://www.devart.com/mcp/zoho-crm/) |
+| | [MCP Server for Zoho Desk](https://www.devart.com/mcp/zoho-desk/) |
 
 ## Supported AI tools
  
-- [Claude Desktop](https://www.devart.com/)
-- [GitHub Copilot](https://www.devart.com/)
-- [JetBrains IDEs](https://www.devart.com/)
+- [Claude Desktop](https://img.shields.io/badge/Claude_Desktop-supported-5B4FE8?logo=anthropic&logoColor=white)
+- [GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-supported-0078D4?logo=github&logoColor=white)
+- [JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-supported-FE2857?logo=jetbrains&logoColor=white)
 - Other MCP-compatible AI tools
 
 ## Support Center
@@ -59,6 +59,3 @@ You can find answers to your questions and share feedback or suggestions about D
 
 - [ODBC Drivers](https://www.devart.com/odbc/)
 - [dotConnect ADO.NET Providers](https://www.devart.com/dotconnect/)
-- [Python Connectors](https://www.devart.com/python/)
-- [SSIS Data Flow Components](https://www.devart.com/ssis/)
-- [Excel Add-ins](https://www.devart.com/excel-addins/)
