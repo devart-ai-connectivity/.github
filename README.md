@@ -1,63 +1,49 @@
-[![Devart AI Connectivity](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp_cover.png)](https://www.devart.com/mcp/)
+[![Devart AI Connectivity](https://github.com/devart-ai-connectivity/.github/blob/main/assets/devart_connectivity_cover.png)](https://www.devart.com/mcp/)
 
 ## Self-hosted MCP Servers for secure AI access to databases and cloud applications
+ 
+30 days free trial &nbsp;•&nbsp; Self-hosted &amp; on-premises &nbsp;•&nbsp; Works with Claude, Copilot, JetBrains
 
-Universal MCP Server • Single-source MCP Servers • ODBC-based connectivity
-
-Devart AI Connectivity is a Devart product direction focused on secure, self-hosted AI access to structured business data.
-
-The first public products available in this organization are **Devart MCP Servers** — self-hosted MCP servers that connect AI tools to databases and cloud applications through ODBC.
-
-## Available now
-
-### Universal MCP Server
-One MCP layer for connecting AI tools to multiple databases and cloud applications through ODBC.
-
-### Single-source MCP Servers
-Focused MCP servers optimized for a specific database or cloud application through the corresponding Devart ODBC Driver.
+Devart AI Connectivity delivers self-hosted MCP servers that connect AI tools to databases and cloud applications through ODBC. Products are developed and maintained by [Devart Ltd](https://www.devart.com).
 
 ## What Devart MCP Servers help you do
-
-- Connect AI tools to structured data sources
+ 
+- Connect AI tools to structured data sources without custom development for each source
 - Keep deployments self-hosted and on-premises
 - Keep data inside your infrastructure
-- Use one MCP layer for multiple sources or focused servers for a specific source
-- Start quickly with a practical setup for AI-to-data access
-
-## Repositories available now
-
-### Universal
-- [MCP Server Universal](https://github.com/devart-ai-connectivity/mcp-server-universal)
-
-### Database sources
-- [MCP Server for ASE](https://github.com/devart-ai-connectivity/mcp-server-ase)
-- [MCP Server for Firebird](https://github.com/devart-ai-connectivity/mcp-server-firebird)
-- [MCP Server for Microsoft Access](https://github.com/devart-ai-connectivity/mcp-server-access)
-- [MCP Server for MySQL](https://github.com/devart-ai-connectivity/mcp-server-mysql)
-- [MCP Server for Oracle](https://github.com/devart-ai-connectivity/mcp-server-oracle)
-- [MCP Server for PostgreSQL](https://github.com/devart-ai-connectivity/mcp-server-postgresql)
-- [MCP Server for SQLite](https://github.com/devart-ai-connectivity/mcp-server-sqlite)
-- [MCP Server for SQL Server](https://github.com/devart-ai-connectivity/mcp-server-sqlserver)
-- [MCP Server for xBase](https://github.com/devart-ai-connectivity/mcp-server-xbase)
-
-### Cloud applications
-- [MCP Server for Dynamics 365](https://github.com/devart-ai-connectivity/mcp-server-dynamics365)
-- [MCP Server for Dynamics 365 Business Central](https://github.com/devart-ai-connectivity/mcp-server-dynamics365-business-central)
-- [MCP Server for HubSpot](https://github.com/devart-ai-connectivity/mcp-server-hubspot)
-- [MCP Server for NetSuite](https://github.com/devart-ai-connectivity/mcp-server-netsuite)
-- [MCP Server for QuickBooks Online](https://github.com/devart-ai-connectivity/mcp-server-quickbooks-online)
-- [MCP Server for Salesforce](https://github.com/devart-ai-connectivity/mcp-server-salesforce)
-- [MCP Server for Salesforce Marketing Cloud](https://github.com/devart-ai-connectivity/mcp-server-salesforce-marketing-cloud)
-- [MCP Server for Snowflake](https://github.com/devart-ai-connectivity/mcp-server-snowflake)
-- [MCP Server for Zoho CRM](https://github.com/devart-ai-connectivity/mcp-server-zoho-crm)
-- [MCP Server for Zoho Desk](https://github.com/devart-ai-connectivity/mcp-server-zoho-desk)
+- Use one MCP layer for multiple sources or a focused server for a specific source
+- Start quickly with a practical GUI-based configuration flow
+## MCP Servers
+ 
+### Universal MCP Server
+ 
+One MCP layer for multiple databases and cloud applications — connect AI tools to any ODBC-accessible source without managing a separate integration for every system.
+ 
+**[MCP Server Universal →](https://docs.devart.com/mcp-server-universal/)**
+ 
+### Single-source MCP Servers
+ 
+Focused MCP servers optimized for a specific database or cloud application through the corresponding Devart ODBC Driver.
+ 
+| Database sources | Cloud applications |
+| --- | --- |
+| [MCP Server for ASE](https://docs.devart.com/mcp-server-ase/) | [MCP Server for Dynamics 365](https://docs.devart.com/mcp-server-dynamics365/) |
+| [MCP Server for Firebird](https://docs.devart.com/mcp-server-firebird/) | [MCP Server for Dynamics 365 Business Central](https://docs.devart.com/mcp-server-dynamics365-business-central/) |
+| [MCP Server for Microsoft Access](https://docs.devart.com/mcp-server-access/) | [MCP Server for HubSpot](https://docs.devart.com/mcp-server-hubspot/) |
+| [MCP Server for MySQL](https://docs.devart.com/mcp-server-mysql/) | [MCP Server for NetSuite](https://docs.devart.com/mcp-server-netsuite/) |
+| [MCP Server for Oracle](https://docs.devart.com/mcp-server-oracle/) | [MCP Server for QuickBooks Online](https://docs.devart.com/mcp-server-quickbooks-online/) |
+| [MCP Server for PostgreSQL](https://docs.devart.com/mcp-server-postgresql/) | [MCP Server for Salesforce](https://docs.devart.com/mcp-server-salesforce/) |
+| [MCP Server for SQLite](https://docs.devart.com/mcp-server-sqlite/) | [MCP Server for Salesforce Marketing Cloud](https://docs.devart.com/mcp-server-salesforce-marketing-cloud/) |
+| [MCP Server for SQL Server](https://docs.devart.com/mcp-server-sqlserver/) | [MCP Server for Snowflake](https://docs.devart.com/mcp-server-snowflake/) |
+| [MCP Server for xBase](https://docs.devart.com/mcp-server-xbase/) | [MCP Server for Zoho CRM](https://docs.devart.com/mcp-server-zoho-crm/) |
+| | [MCP Server for Zoho Desk](https://docs.devart.com/mcp-server-zoho-desk/) |
 
 ## Supported AI tools
-
-- Claude Desktop
-- GitHub Copilot
-- JetBrains IDEs
-- Other AI IDEs
+ 
+- [Claude Desktop](https://www.devart.com/)
+- [GitHub Copilot](https://www.devart.com/)
+- [JetBrains IDEs](https://www.devart.com/)
+- Other MCP-compatible AI tools
 
 ## Support Center
 
