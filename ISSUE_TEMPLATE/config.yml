@@ -1,0 +1,21 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.devart.com/
+    about: Check the product documentation first.
+
+  - name: Community Forum
+    url: https://support.devart.com/portal/en/community
+    about: Ask setup, configuration, and product usage questions here.
+
+  - name: Submit a Request
+    url: https://www.devart.com/company/contactform.html
+    about: Contact Devart for general support inquiries.
+
+  - name: Feature Requests
+    url: https://devart.uservoice.com/
+    about: Suggest a feature or improvement here.
+
+  - name: Trust Center
+    url: https://www.devart.com/data-connectivity/trust-center.html
+    about: See trust, compliance, and security information.
