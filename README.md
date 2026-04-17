@@ -6,7 +6,7 @@
 
 Devart AI Connectivity is a suite of self-hosted MCP servers — secure middleware components that connect AI tools to databases and cloud applications through ODBC, developed and maintained by [Devart Ltd](https://www.devart.com).
 
-## What Devart MCP Servers help you do
+## What you can achieve with Devart MCP Servers
  
 - Connect AI tools to structured data sources without custom development for each source
 - Keep all data inside your own infrastructure
