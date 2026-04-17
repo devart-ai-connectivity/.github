@@ -4,7 +4,7 @@
  
 30 days free trial &nbsp;•&nbsp; Self-hosted &amp; on-premises &nbsp;•&nbsp; Works with Claude, Copilot, JetBrains
 
-Devart AI Connectivity delivers self-hosted MCP servers that connect AI tools to databases and cloud applications through ODBC. Products are developed and maintained by [Devart Ltd](https://www.devart.com).
+Devart AI Connectivity delivers self-hosted MCP servers that connect AI tools to databases and cloud applications through ODBC.
 
 ## What Devart MCP Servers help you do
  
