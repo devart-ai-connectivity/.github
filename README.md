@@ -15,6 +15,8 @@ Devart AI Connectivity is a suite of self-hosted MCP servers — secure middlewa
 - Use one MCP layer for multiple sources or a focused server for a specific source
 - Start quickly with a practical GUI-based configuration flow
 
+![Devart MCP Server Universal — configuration interface](https://github.com/devart-ai-connectivity/.github/blob/main/assets/gui_placeholder.png)
+
 ## MCP Servers
  
 ### Universal MCP Server
@@ -29,16 +31,16 @@ Focused [MCP servers](https://www.devart.com/mcp/) optimized for a specific data
  
 | Database sources | Cloud applications |
 | --- | --- |
-| [MCP Server for ASE](https://www.devart.com/mcp/ase/) | [MCP Server for Dynamics 365](https://www.devart.com/mcp/dynamics365/) |
-| [MCP Server for Firebird](https://www.devart.com/mcp/firebird/) | [MCP Server for Dynamics 365 Business Central](https://www.devart.com/mcp/dynamics365-business-central/) |
-| [MCP Server for Microsoft Access](https://www.devart.com/mcp/microsoft-access/) | [MCP Server for HubSpot](https://www.devart.com/mcp/hubspot/) |
-| [MCP Server for MySQL](https://www.devart.com/mcp/mysql/) | [MCP Server for NetSuite](https://www.devart.com/mcp/netsuite/) |
-| [MCP Server for Oracle](https://www.devart.com/mcp/oracle/) | [MCP Server for QuickBooks Online](https://www.devart.com/mcp/quickbooks-online/) |
-| [MCP Server for PostgreSQL](https://www.devart.com/mcp/postgresql/) | [MCP Server for Salesforce](https://www.devart.com/mcp/salesforce/) |
-| [MCP Server for SQLite](https://www.devart.com/mcp/sqlite/) | [MCP Server for Salesforce Marketing Cloud](https://www.devart.com/mcp/salesforce-marketing-cloud/) |
-| [MCP Server for SQL Server](https://www.devart.com/mcp/sqlserver/) | [MCP Server for Snowflake](https://www.devart.com/mcp/snowflake/) |
-| [MCP Server for xBase](https://www.devart.com/mcp/xbase/) | [MCP Server for Zoho CRM](https://www.devart.com/mcp/zoho-crm/) |
-| | [MCP Server for Zoho Desk](https://www.devart.com/mcp/zoho-desk/) |
+| [MCP Server for ASE](https://github.com/devart-ai-connectivity/mcp-server-ase) | [MCP Server for Dynamics 365](https://github.com/devart-ai-connectivity/mcp-server-dynamics365) |
+| [MCP Server for Firebird](https://github.com/devart-ai-connectivity/mcp-server-firebird) | [MCP Server for Dynamics 365 Business Central](https://github.com/devart-ai-connectivity/mcp-server-dynamics365-business-central) |
+| [MCP Server for Microsoft Access](https://github.com/devart-ai-connectivity/mcp-server-microsoft-access) | [MCP Server for HubSpot](https://github.com/devart-ai-connectivity/mcp-server-hubspot) |
+| [MCP Server for MySQL](https://github.com/devart-ai-connectivity/mcp-server-mysql) | [MCP Server for NetSuite](https://github.com/devart-ai-connectivity/mcp-server-netsuite) |
+| [MCP Server for Oracle](https://github.com/devart-ai-connectivity/mcp-server-oracle) | [MCP Server for QuickBooks Online](https://github.com/devart-ai-connectivity/mcp-server-online) |
+| [MCP Server for PostgreSQL](https://github.com/devart-ai-connectivity/mcp-server-postgresql) | [MCP Server for Salesforce](https://github.com/devart-ai-connectivity/mcp-server-salesforce) |
+| [MCP Server for SQLite](https://github.com/devart-ai-connectivity/mcp-server-sqlite) | [MCP Server for Salesforce Marketing Cloud](https://github.com/devart-ai-connectivity/mcp-server-salesforce-marketing-cloud) |
+| [MCP Server for SQL Server](https://github.com/devart-ai-connectivity/mcp-server-sqlserver) | [MCP Server for Snowflake](https://github.com/devart-ai-connectivity/mcp-server-snowflake) |
+| [MCP Server for xBase](https://github.com/devart-ai-connectivity/mcp-server-xbase) | [MCP Server for Zoho CRM](https://github.com/devart-ai-connectivity/mcp-server-zoho-crm) |
+| | [MCP Server for Zoho Desk](https://github.com/devart-ai-connectivity/mcp-server-zoho-desk) |
 
 ## Supported AI tools
  
