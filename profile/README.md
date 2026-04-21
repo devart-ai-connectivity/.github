@@ -15,7 +15,7 @@ Devart AI Connectivity is a suite of self-hosted MCP servers — secure middlewa
 - Use one MCP layer for multiple sources or a focused server for a specific source
 - Start quickly with a practical GUI-based configuration flow
 
-![Devart MCP Server Universal — configuration interface](assets/gui_placeholder.png)
+![Devart MCP Server Universal — configuration interface](https://github.com/devart-ai-connectivity/.github/blob/main/assets/gui_placeholder.png)
 
 ## MCP Servers
  
