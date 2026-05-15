@@ -53,7 +53,7 @@ Devart MCP Servers support integration with the following AI clients:
 
 You can find answers to your questions and share feedback or suggestions about Devart MCP Servers.
 
-* [Documentation](https://docs.devart.com/)
+* [Documentation](https://docs.devart.com/mcp/)
 * [Submit a request](https://www.devart.com/company/contactform.html)
 * [Suggest a feature](https://devart.uservoice.com/)
 * [Join our forum](https://support.devart.com/portal/en/community/data-connectivity)
