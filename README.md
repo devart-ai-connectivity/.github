@@ -1,4 +1,4 @@
-[![Devart AI Connectivity](https://github.com/devart-ai-connectivity/.github/blob/main/assets/devart_connectivity_cover.png)](https://www.devart.com/mcp/)
+[![Devart AI Connectivity](https://github.com/devart-ai-connectivity/.github/blob/main/assets/cover-banner-mcp-servers.webp?raw=true)](https://www.devart.com/mcp/)
 
 ## Self-hosted MCP Servers for secure AI access to databases and cloud applications
 
@@ -10,14 +10,14 @@ Devart MCP Servers enable you to:
 
 * Work with data intuitively through natural language.
 * Retrieve the required data for analysis within minutes.
-* Report on your data faster with AI-powered assistance.
+* Generate reports faster with AI-powered assistance.
 * Minimize manual data handling and integration maintenance.
 
 ![Devart MCP Servers](https://github.com/devart-ai-connectivity/.github/blob/main/assets/mcp-servers-gui.webp)
 
-## Devart MCP Servers: multi- and single-source connectivity
+## Devart MCP Servers for multi- and single-source connectivity
 
-Devart provides both a unified MCP Server for multi-source connectivity and dedicated MCP Servers for individual data sources.
+Devart provides both a unified MCP Server for multi-source connectivity and dedicated MCP Servers for specific data sources.
  
 [Devart MCP Server Universal](https://www.devart.com/mcp/universal/) connects AI clients to all supported databases and cloud services through one self-hosted MCP layer without deploying separate servers for every required source.
  
@@ -40,7 +40,7 @@ Source-specific [Devart MCP Servers](https://www.devart.com/mcp/) serve as dedic
 
 Devart MCP Servers support integration with the following AI clients: 
  
-* Claude Code Desktop
+* Claude Desktop
 * Visual Studio Code
 * Cursor
 * Codex
