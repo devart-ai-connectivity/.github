@@ -2,7 +2,7 @@
 
 ## Self-hosted MCP Servers for secure AI access to databases and cloud applications
 
-Devart MCP Servers enable AI clients to interact with databases and cloud services through a secure server running in your environment. They turn a regular AI chat into a practical way to work with real-world business data---and it is faster than conventional export or manual querying.
+Devart MCP Servers enable AI clients to interact with databases and cloud services through a secure server running in your environment. They turn a regular AI chat into a practical way to work with real-world business data—and it is faster than conventional export or manual querying.
 
 ## Why choose Devart MCP Servers
 
