@@ -24,7 +24,7 @@ Devart provides both a unified MCP Server for multi-source connectivity and dedi
 Source-specific [Devart MCP Servers](https://www.devart.com/mcp/) serve as dedicated connectors between AI clients and specific databases or cloud applications using the corresponding Devart ODBC Driver.
  
 | Database sources | Cloud applications |
-| --- | --- |
+| — | — |
 | [MCP Server for ASE](https://github.com/devart-ai-connectivity/mcp-server-ase) | [MCP Server for Dynamics 365](https://github.com/devart-ai-connectivity/mcp-server-dynamics365) |
 | [MCP Server for Firebird](https://github.com/devart-ai-connectivity/mcp-server-firebird) | [MCP Server for Dynamics 365 Business Central](https://github.com/devart-ai-connectivity/mcp-server-dynamics365-business-central) |
 | [MCP Server for Microsoft Access](https://github.com/devart-ai-connectivity/devart-mcp-server-access) | [MCP Server for HubSpot](https://github.com/devart-ai-connectivity/mcp-server-hubspot) |
@@ -53,7 +53,7 @@ Devart MCP Servers support integration with the following AI clients:
 
 You can find answers to your questions and share feedback or suggestions about Devart MCP Servers.
 
-* [Documentation](https://docs.devart.com/mcp/)
+* [Documentation](https://docs.devart.com/)
 * [Submit a request](https://www.devart.com/company/contactform.html)
 * [Suggest a feature](https://devart.uservoice.com/)
 * [Join our forum](https://support.devart.com/portal/en/community/data-connectivity)
